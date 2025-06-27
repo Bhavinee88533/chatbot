@@ -63,7 +63,7 @@ async function getans(msg) {
 
         const data = await response.json();
 
-        // Clear file only after API call
+      
         user.file = { mime_type: null, data: null };
         imgbtn.value = "";
         img.style.backgroundImage = `url('https://cdn-icons-png.flaticon.com/512/16/16410.png')`;
