@@ -4,17 +4,5 @@ This is a responsive web-based chatbot powered by **Google Gemini API**, support
 
 ---
 
-## Features
-
--  Text-based query input
--  Image upload support (Base64 encoded)
--  Gemini API integration (v1beta - `generateContent`)
--  Bot typing animation
--  Responsive design:
-  -  Mobile view (300px–500px)
-  -  Tablet view (501px–900px)
-  -  Desktop view (Default)
-
----
 
 
